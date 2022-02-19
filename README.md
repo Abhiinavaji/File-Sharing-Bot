@@ -45,7 +45,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ### Installation
 #### Deploy on Her
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO ANDCHANGE ITS NAME TO ANYTHING ELSE**<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhiinavaji/File-Sharing-Bot
 
 
 
